@@ -5,7 +5,7 @@ namespace Renatio\Logout\Classes;
 use Backend\Models\User;
 use DateTime;
 use Illuminate\Support\Facades\Event;
-use October\Rain\Support\Facades\Schema;
+use Winter\Storm\Support\Facades\Schema;
 use Renatio\Logout\Models\Settings;
 
 /**

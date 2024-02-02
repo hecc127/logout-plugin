@@ -5,8 +5,8 @@ namespace Renatio\Logout\Middleware;
 use Backend\Facades\Backend;
 use Backend\Facades\BackendAuth;
 use Closure;
-use October\Rain\Support\Facades\Flash;
-use October\Rain\Support\Facades\Schema;
+use Winter\Storm\Support\Facades\Flash;
+use Winter\Storm\Support\Facades\Schema;
 use Renatio\Logout\Models\Settings;
 
 /**

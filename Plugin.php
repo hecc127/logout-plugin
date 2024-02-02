@@ -3,7 +3,7 @@
 namespace Renatio\Logout;
 
 use Illuminate\Routing\Router;
-use October\Rain\Support\Facades\Schema;
+use Winter\Storm\Support\Facades\Schema;
 use Renatio\Logout\Classes\BackendUserExtension;
 use Renatio\Logout\Classes\Counter;
 use Renatio\Logout\Middleware\ValidateSession;
@@ -33,7 +33,7 @@ class Plugin extends PluginBase
             'description' => 'renatio.logout::lang.plugin.description',
             'author' => 'Renatio',
             'icon' => 'icon-power-off',
-            'homepage' => 'https://octobercms.com/plugin/renatio-logout',
+            'homepage' => 'https://wintercms.com/plugin/renatio-logout',
         ];
     }
 

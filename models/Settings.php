@@ -2,8 +2,8 @@
 
 namespace Renatio\Logout\Models;
 
-use October\Rain\Database\Model;
-use October\Rain\Database\Traits\Validation;
+use Winter\Storm\Database\Model;
+use Winter\Storm\Database\Traits\Validation;
 
 /**
  * Class Settings

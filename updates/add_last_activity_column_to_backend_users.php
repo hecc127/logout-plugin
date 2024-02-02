@@ -2,8 +2,8 @@
 
 namespace Renatio\Logout\Updates;
 
-use October\Rain\Database\Updates\Migration;
-use October\Rain\Support\Facades\Schema;
+use Winter\Storm\Database\Updates\Migration;
+use Winter\Storm\Support\Facades\Schema;
 use Renatio\Logout\Models\Settings;
 
 /**

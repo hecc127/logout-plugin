@@ -1,9 +1,9 @@
 {
   "name": "renatio/logout-plugin",
-  "type": "october-plugin",
+  "type": "winter-plugin",
   "description": "Automatically sign out authenticated backend user after specified time.",
-  "homepage": "https://octobercms.com/plugin/renatio-logout",
-  "keywords": ["octobercms-plugin", "octobercms", "php", "laravel", "user", "logout"],
+  "homepage": "https://wintercms.com/plugin/renatio-logout",
+  "keywords": ["wintercms-plugin", "wintercms", "php", "laravel", "user", "logout"],
   "license": "MIT",
   "authors": [
     {

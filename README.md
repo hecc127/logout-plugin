@@ -10,16 +10,16 @@ Automatically sign out authenticated backend user after specified time.
 
 ## Requirements
 
-> Plugin requires OctoberCMS build 420+ with Laravel 5.5 and PHP >=7.0.
+> Plugin requires WinterCMS build 420+ with Laravel 5.5 and PHP >=7.0.
 
 ## Installation
 
 There are couple ways to install this plugin.
 
-1. Use October [Marketplace](http://octobercms.com/help/site/marketplace) and __Add to project__ button. 
-2. Use October backend area *Settings > System > Updates & Plugins > Install Plugins* and type __Renatio.Logout__.
+1. Use Winter [Marketplace](http://wintercms.com/help/site/marketplace) and __Add to project__ button. 
+2. Use Winter backend area *Settings > System > Updates & Plugins > Install Plugins* and type __Renatio.Logout__.
 3. Use `php artisan plugin:install Renatio.Logout` command.
-4. Use `composer require renatio/logout-plugin` in project root. When you use this option you must run `php artisan october:up` after installation.
+4. Use `composer require renatio/logout-plugin` in project root. When you use this option you must run `php artisan winter:up` after installation.
 
 > Fourth option should be used only for advanced users.
 
